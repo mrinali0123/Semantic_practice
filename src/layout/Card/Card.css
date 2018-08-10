@@ -1,0 +1,8 @@
+.ui.card.mainDisplay {
+    margin: 1em 1em !important;
+    display: inline-block;
+    padding: 10px !important;
+}
+.ui.card > .image {
+    padding: 1em !important;
+}
